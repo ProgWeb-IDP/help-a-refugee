@@ -1,4 +1,4 @@
-## <p alignment="center>Detalii proiect</p>
+## <p alignment="center">Detalii proiect</p>
 
 ## Resurse:
 
