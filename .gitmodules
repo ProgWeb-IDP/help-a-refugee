@@ -1,0 +1,9 @@
+[submodule "pweb.ui"]
+	path = pweb.ui
+	url = https://github.com/ProgWeb-IDP/pweb.ui
+[submodule "pweb.api"]
+	path = pweb.api
+	url = https://github.com/ProgWeb-IDP/pweb.api
+[submodule "idp"]
+	path = idp
+	url = https://github.com/ProgWeb-IDP/idp
