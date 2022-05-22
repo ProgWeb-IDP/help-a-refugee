@@ -38,4 +38,3 @@
     - I want to **choose** a **role** from a list with current roles
     - I want to **choose** a **location** from a list with current locations
     - If needed, I want to **add** a short description to my **request**
-  
